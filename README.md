@@ -36,3 +36,13 @@ https://github.com/chrisbanes/PhotoView
 * DatePicker日历日期选择器
 https://github.com/AigeStudio/DatePicker
 
+* WebViewJavascriptBridge
+https://github.com/jesse01/WebViewJavascriptBridge
+
+* android-UniversalMusicPlayer音乐播放器
+https://github.com/googlesamples/android-UniversalMusicPlayer
+
+* WeChatLuckyMoney微信抢红包
+https://github.com/geeeeeeeeek/WeChatLuckyMoney
+
+
