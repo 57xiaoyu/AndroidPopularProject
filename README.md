@@ -61,5 +61,18 @@ https://github.com/leolin310148/ShortcutBadger
 https://github.com/zxing/zxing
 
 
+* FlexboxLayout Android弹性布局：
+https://github.com/google/flexbox-layout
+
+* ExoPlayer 一个开源的，App等级的媒体API：
+https://github.com/google/ExoPlayer
+
+* android-classyshark反编译：
+https://github.com/google/android-classyshark
+
+
+
+
+
 
 
