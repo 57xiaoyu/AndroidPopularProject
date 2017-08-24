@@ -60,7 +60,6 @@ https://github.com/leolin310148/ShortcutBadger
 * ZXing二维码条形码解析:
 https://github.com/zxing/zxing
 
-
 * FlexboxLayout Android弹性布局：
 https://github.com/google/flexbox-layout
 
@@ -70,8 +69,8 @@ https://github.com/google/ExoPlayer
 * android-classyshark反编译：
 https://github.com/google/android-classyshark
 
-
-
+* CameraView：
+https://github.com/google/cameraview
 
 
 
