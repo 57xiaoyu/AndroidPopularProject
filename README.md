@@ -72,6 +72,9 @@ https://github.com/google/android-classyshark
 * CameraView：
 https://github.com/google/cameraview
 
+* Recycleview 侧滑菜单：
+https://github.com/yhaolpz/SlidingMenu
+
 
 
 
