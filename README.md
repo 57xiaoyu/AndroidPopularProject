@@ -75,6 +75,6 @@ https://github.com/google/cameraview
 * Recycleview 侧滑菜单：
 https://github.com/yhaolpz/SlidingMenu
 
-
-
+Kotlin中的ButterKnife KotterKnife
+https://github.com/JakeWharton/kotterknife
 
