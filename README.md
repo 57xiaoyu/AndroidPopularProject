@@ -78,3 +78,5 @@ https://github.com/yhaolpz/SlidingMenu
 * Kotlin中的ButterKnife KotterKnife
 https://github.com/JakeWharton/kotterknife
 
+* Android 服务保活/常驻 (Android Service Daemon)
+https://github.com/xingda920813/HelloDaemon
