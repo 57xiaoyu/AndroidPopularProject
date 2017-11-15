@@ -80,3 +80,6 @@ https://github.com/JakeWharton/kotterknife
 
 * Android 服务保活/常驻 (Android Service Daemon)
 https://github.com/xingda920813/HelloDaemon
+
+* 文字跳动
+https://github.com/frakbot/JumpingBeans
